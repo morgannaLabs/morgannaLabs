@@ -7,10 +7,10 @@
 </p>
 
 
-💻 **Java Developer in progress**
-🐧 **Linux Explorer**
-🌱 **Currently learning Backend Development**
-🕹️ **Indie game development enthusiast**
+💻 Java Developer in progress
+🐧 Linux Explorer
+🌱 Currently learning Backend Development
+🕹️ Indie game development enthusiast
 
 ---
 
