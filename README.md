@@ -12,6 +12,8 @@
 🌱 Currently learning Backend Development
 🕹️ Indie game development enthusiast
 
+<p align = "center" >✨ <i>Learning magic in Java, crafting games, and enchanting code ✨</i>
+
 ---
 
 ## 🚀 About Me
@@ -67,4 +69,3 @@ Here you will find my programming exercises, experiments and learning projects.
 
 ---
 
-✨ *Learning magic in Java, crafting games, and enchanting code*
