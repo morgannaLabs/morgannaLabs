@@ -49,6 +49,8 @@
 * Linux 
 * Clean Code Principles
 * SQL & Databases
+* Java Game Development
+* Java GUI (Swing)
 
 ---
 
