@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Nathalia Molina (Morganna) 👋 </h1>
+<h1 align="center"> ✨ Hello, I'm Nathalia Molina (Morganna) ✨ </h1>
 
 
 
