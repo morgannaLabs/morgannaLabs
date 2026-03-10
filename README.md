@@ -62,10 +62,9 @@ Here you will find my programming exercises, experiments and learning projects.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=morgannaLabs\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morgannaLabs\&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=morgannaLabs&show_icons=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=morgannaLabs&layout=compact)
 
 ---
 
-✨ *Learning, building, and improving every day.*
+✨ *Learning magic in Java, crafting games, and enchanting code*
